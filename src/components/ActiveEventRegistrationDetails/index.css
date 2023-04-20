@@ -1,0 +1,29 @@
+.registration-success-img {
+  width: 200px;
+}
+
+.registration-yet-to-register-img {
+  width: 250px;
+  height: 300px;
+}
+
+.register-btn {
+  background-color: #0967d2;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  width: 300px;
+  border-radius: 6px;
+}
+
+.registrations-closed-img {
+  width: 250px;
+  height: 300px;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

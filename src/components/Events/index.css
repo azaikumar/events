@@ -1,0 +1,30 @@
+.app-left-container {
+  width: 50vw;
+  background-color: #323f4b;
+  color: #ffffff;
+}
+
+.images-list-container {
+  flex-wrap: wrap;
+  display: flex;
+  width: 50vw;
+  display: flex;
+  justify-content: space-around;
+}
+
+.app-container {
+  display: flex;
+}
+
+.right-container {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.heading {
+  margin-left: 100px;
+}
